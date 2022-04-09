@@ -26,7 +26,9 @@
 
 
 
-Pessoinha depois de você ver tudo isso, espero que você vá direto para POO - Programação Orientada a Objetos, essa pastinha aqui do meu git tem varias coisinhas pra te ajudar a programar lindamente. por que codigo organizado é outro tipo de programação.
+Pessoinha depois de você ver tudo isso, espero que você vá direto para POO - Programação Orientada a Objetos, esse outro Repositorio aqui do meu git tem varias coisinhas pra te ajudar a programar lindamente.
+
+Por que codigo organizado é outro tipo de codigo.
 Boa sorte e bons estudos.
 
 ##### A gente se VÊ.
