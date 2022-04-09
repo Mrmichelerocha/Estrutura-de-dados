@@ -32,4 +32,4 @@ Por que codigo organizado é outro tipo de codigo.
 <br>
 Boa sorte e bons estudos.
 
-##### A gente se VÊ.
+##### A gente se vê.
