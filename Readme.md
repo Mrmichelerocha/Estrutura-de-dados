@@ -23,3 +23,9 @@
 18. Arvores - AVL
 19. Hashing - Aberto
 20. Hashing - fechado
+
+
+
+Galerinha depois de vocês verem tudo isso, espero que você vá direto para POO - Programação Orientada a Objetos, essa pastinha aqui do meu git tem varias coisinhas pra te ajudar a programar lindamente. por que codigo organizado é outro tipo de programação.
+Boa sorte e bons estudos.
+#######A gente se VÊ.
